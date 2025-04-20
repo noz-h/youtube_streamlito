@@ -1,0 +1,9 @@
+# 仮想環境を無視
+venv/
+
+# VSCode関連の設定ファイルを無視
+.vscode/
+
+# Pythonのキャッシュファイルを無視
+__pycache__/
+*.pyc
